@@ -6,7 +6,7 @@ You can contribute by suggesting new topics, look for possible improvements, pro
 
 ## Code of Conduct:
 
-To know about the code of conduct for this community visit this link: <a href = "https://github.com/DaedalusDreamJournal/datascienceroadmap/blob/master/CODE_OF_CONDUCT.md">Code Of Conduct</a>
+To know about the code of conduct for this community visit this link: <a href = "https://github.com/66daysofdata/Code_of_conduct">Code Of Conduct</a>
 
 ## Reason why this repo exist and a guide to get started
 
