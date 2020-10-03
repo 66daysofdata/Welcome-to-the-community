@@ -29,17 +29,17 @@ On the github page click on the button "**FORK**" ![fork](assets/fork-image.png)
 For example, run the command below on your computer:
 
 ```bat
-$ git clone https://github.com/<your-github-username>/datascienceroadmap.git
+$ git clone https://github.com/<your-github-username>/<repo-you-want-to-clone>.git
 ```
 
-Note: Make sure you replace <your-github-username> with your actual username.
+Note: Make sure you replace <your-github-username> with your actual username and the <repo-you-want-to-clone> with the actual repo name you want to clone.
 
 ## 4. Change directory into the clone directory
 
 For example:
 
 ```bat
-$ cd datascienceroadmap
+$ cd cloned-directory
 ```
 
 ## 5. Sync your fork
@@ -51,7 +51,7 @@ Please, read [How to keep your fork in sync.](https://www.freecodecamp.org/news/
 For instance, write the following on your bash/terminal or cmd line:
 
 ```bat
-$ git remote add upstream https://github.com/DaedalusDreamJournal/datascienceroadmap.git
+$ git remote add upstream https://github.com/<your-github-username>/<repo-you-want-to-clone>.git
 ```
 
 ## 6. Make changes
