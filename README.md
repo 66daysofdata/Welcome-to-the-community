@@ -18,9 +18,9 @@ If you are already here you probably know what git is. But, if you do not, watch
 
 Also, if you want to find out more please read the [git documentation reference.](https://git-scm.com/docs)
 
-## 2. Fork this repository:
+## 2. Fork the repository that you want to contribute to:
 
-On this github page click on the button "**FORK**" ![fork](assets/fork-image.png)
+On the github page click on the button "**FORK**" ![fork](assets/fork-image.png)
 
 ## 3. Clone the fork repository to your computer locally:
 
