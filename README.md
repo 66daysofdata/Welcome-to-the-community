@@ -1,4 +1,4 @@
-# Getting started
+# Welcome to the 66daysofdata community.
 
 ## A guideline of how to start contributing to this repo.
 
