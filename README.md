@@ -1,6 +1,6 @@
 # Welcome to the 66daysofdata community.
 
-![Contributions are Welcome](https://img.shields.io/badge/Contributions-are-welcome-brightgreen.svg?style=flat-square)
+https://img.shields.io/badge/license-CC0%201.0%20Universal-brightgreen
 
 ## A guideline of how to start contributing to this repo.
 
