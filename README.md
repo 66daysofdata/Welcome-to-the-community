@@ -1,8 +1,8 @@
 # Welcome to the 66daysofdata community.
 
-[![License](https://img.shields.io/badge/license-CC0%201.0%20Universal-brightgreen.svg?style=flat-square)](https://github.com/66daysofdata/License)
+[![License](https://img.shields.io/badge/License-CC0%201.0%20Universal-brightgreen.svg?style=flat-square)](https://github.com/66daysofdata/License)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
+
 
 ## A guideline of how to start contributing to this repo.
 
