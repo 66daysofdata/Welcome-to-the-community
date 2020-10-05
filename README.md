@@ -1,5 +1,7 @@
 # Welcome to the 66daysofdata community.
 
+[![Contributions are Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]
+
 ## A guideline of how to start contributing to this repo.
 
 You can contribute by suggesting new topics, look for possible improvements, provide suggestions or by adding resources.
