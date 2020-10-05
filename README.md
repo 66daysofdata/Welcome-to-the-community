@@ -113,3 +113,8 @@ $ git merge upstream/master
 ```
 
 For further information you can read [How to sync your github fork.](https://nearsoft.com/blog/how-to-synchronize-your-github-fork/)
+
+
+### Contributing
+
+Your contributions are always welcome!
