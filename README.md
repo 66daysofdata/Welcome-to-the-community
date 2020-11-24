@@ -12,13 +12,13 @@ You can contribute by suggesting new topics, look for possible improvements, pro
 
 To know about the code of conduct for this community visit this link: <a href = "https://github.com/66daysofdata/Code-of-conduct">Code Of Conduct</a>
 
-## Reason why this repo exist and a guide to get started
+## Reason why this repo exists and a guide to get started
 
 Check out [Ken's Jee video on youtube](https://www.youtube.com/watch?v=uXLnbdHMf8w&ab_channel=KenJee) of why he is started **#66daysofdata**
 
 ## 1. Familiarize with git
 
-If you are already here you probably know what git is. But, if you do not, watch this [git video tutorial](https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia) gear towards beginners.
+If you are already here you probably know what git is. But, if you do not, watch this [git video tutorial](https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia) geared towards beginners.
 
 Also, if you want to find out more please read the [git documentation reference.](https://git-scm.com/docs)
 
